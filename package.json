@@ -1,6 +1,6 @@
 {
   "name": "formula-iferror",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks for error and return default value.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/FormulaPages/iferror#readme",
   "dependencies": {
-    "formula-iserror": "^1.0.1"
+    "formula-iserror": "^1.0.2"
   }
 }
